@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a99e4d2.css",
-    "main.js": "/static/js/main.d15492f8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/headshot.png": "/static/media/headshot.a9223c266cb40a348a31.png",
-    "index.html": "/index.html",
-    "main.9a99e4d2.css.map": "/static/css/main.9a99e4d2.css.map",
-    "main.d15492f8.js.map": "/static/js/main.d15492f8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/AnnaGutowska.github.io/static/css/main.9a99e4d2.css",
+    "main.js": "/AnnaGutowska.github.io/static/js/main.b87fa4f8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AnnaGutowska.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/headshot.png": "/AnnaGutowska.github.io/static/media/headshot.a9223c266cb40a348a31.png",
+    "index.html": "/AnnaGutowska.github.io/index.html",
+    "main.9a99e4d2.css.map": "/AnnaGutowska.github.io/static/css/main.9a99e4d2.css.map",
+    "main.b87fa4f8.js.map": "/AnnaGutowska.github.io/static/js/main.b87fa4f8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AnnaGutowska.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a99e4d2.css",
-    "static/js/main.d15492f8.js"
+    "static/js/main.b87fa4f8.js"
   ]
 }
