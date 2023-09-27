@@ -8,7 +8,7 @@ import Projects from "./components/Projects/Projects";
 
 function App() {
   return (
-    <div className="bckg">
+    <div> 
       <Navbar />
       <Intro />
       <About />

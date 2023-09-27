@@ -8,11 +8,13 @@ const Experience = () => {
         <section className={styles.container} id="experience">
             <h2 className={styles.title}>Experience</h2>
         
-            <VerticalTimeline>
+            <VerticalTimeline
+                lineColor = '#f7eef7'>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
-                    contentStyle={{ background: 'rgb(255, 255, 255)', color: '#000' }}
-                    contentArrowStyle={{ borderRight: '7px solid  rgb(255, 255, 255)' }}
+                    contentStyle={{ background: '#f7eef7', color: '#000' }}
+                    contentArrowStyle={{ borderRight: '7px solid  black' }}
+                    
                     date="Sep 2021 - present"
                     iconStyle={{ background: 'rgb(207, 132, 201)', color: '#ffffff' }}
                    
@@ -30,8 +32,8 @@ const Experience = () => {
 
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
-                    contentStyle={{ background: 'rgb(255, 255, 255)', color: '#000' }}
-                    contentArrowStyle={{ borderRight: '7px solid  rgb(255, 255, 255)' }}
+                    contentStyle={{ background: '#f7eef7', color: '#000' }}
+                    contentArrowStyle={{ borderRight: '7px solid  black' }}
                     date="Mar 2021 - present"
                     iconStyle={{ background: 'rgb(207, 132, 201)', color: '#ffffff' }}
                    
@@ -50,8 +52,8 @@ const Experience = () => {
 
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
-                    contentStyle={{ background: 'rgb(255, 255, 255)', color: '#000' }}
-                    contentArrowStyle={{ borderRight: '7px solid  rgb(255, 255, 255)' }}
+                    contentStyle={{ background: '#f7eef7', color: '#000' }}
+                    contentArrowStyle={{ borderRight: '7px solid  black' }}
                     date="Jun 2022 - Aug 2022"
                     iconStyle={{ background: 'rgb(207, 132, 201)', color: '#ffffff' }}
                    
@@ -68,8 +70,8 @@ const Experience = () => {
 
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
-                    contentStyle={{ background: 'rgb(255, 255, 255)', color: '#000' }}
-                    contentArrowStyle={{ borderRight: '7px solid  rgb(255, 255, 255)' }}
+                    contentStyle={{ background: '#f7eef7', color: '#000' }}
+                    contentArrowStyle={{ borderRight: '7px solid black' }}
                     date="Jun 2021 - Aug 2021"
                     iconStyle={{ background: 'rgb(207, 132, 201)', color: '#ffffff' }}
                    
