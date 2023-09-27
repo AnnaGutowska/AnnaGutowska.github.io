@@ -1,15 +1,45 @@
-.title{
-  font-size: 20px;
-  color: white;
+@import "../../style.css";
+
+.title {
+  font-size: 35px;
+  font-weight: 900;
+  margin-bottom: 33px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(207, 132, 201);
   text-decoration: none;
 }
 
-.fakeBtn {
-    text-decoration: none;
-    background-color: coral;
-    color: white;
-    border-radius: 100px;
-    font-size: 25px;
-    font-weight: 600;
-    padding: 17px 26px;
-  }
+.container {
+  position: relative;
+  border-radius: 15px;
+  padding: 7px;
+  margin-top: 129px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.aboutItem {
+  display: flex;
+  transition: 0.4s;
+  color: white;
+  font-size: 20px;
+  font-family:  'Roboto', sans-serif;
+  margin-bottom: 52px;
+
+}
+
+.elementTitle{
+  display: flex;
+  color: white;
+  font-size: 24px;
+  
+}
+
+

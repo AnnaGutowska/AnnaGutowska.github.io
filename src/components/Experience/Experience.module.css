@@ -1,0 +1,51 @@
+@import "../../style.css";
+
+.title {
+  font-size: 35px;
+  font-weight: 900;
+  margin-bottom: 33px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(207, 132, 201);
+  text-decoration: none;
+}
+
+.container {
+  position: relative;
+  border-radius: 15px;
+  padding: 7px;
+  margin-top: 1px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.otherExperience {
+  font-size: 22px;
+  font-weight: 900;
+  margin-bottom: 33px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: rgb(207, 132, 201);
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.experienceItem {
+  text-align: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family:  'Roboto', sans-serif;
+  margin-bottom: 12px;
+
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+}

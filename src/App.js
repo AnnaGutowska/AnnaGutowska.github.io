@@ -1,15 +1,19 @@
 import Navbar from './components/Navbar/Navbar';
-import "./App.css";
+import styles from "./App.css";
+
 import Intro from "./components/Intro/Intro";
 import About from "./components/About/About";
-
+import Experience  from './components/Experience/Experience';
+import Projects from "./components/Projects/Projects";
 
 function App() {
   return (
-    <div className="App">
+    <div className={styles.body}>
       <Navbar />
       <Intro />
       <About />
+      <Experience />
+      <Projects />
     </div>
     
   );

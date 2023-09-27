@@ -9,8 +9,10 @@ const Navbar = () => {
       <div className={styles.menu}>
         <li className={styles.menuItems}>
           <a href="#about">About</a>
+          <a href="#experience">Experience</a>
           <a href="#projects">Projects</a>
-          <a href="#contact">Contact</a>
+          <a href="./resume.pdf" target="_blank">Resume</a>
+
         </li>
       </div>
     </nav>
