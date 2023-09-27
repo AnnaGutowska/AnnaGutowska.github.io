@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from './Resume-Anna Gutowska.pdf';
 
 import styles from "./Navbar.module.css";
 
@@ -11,7 +12,7 @@ const Navbar = () => {
           <a href="#about">About</a>
           <a href="#experience">Experience</a>
           <a href="#projects">Projects</a>
-          <a href="./resume.pdf" target="_blank">Resume</a>
+          <a href={Resume} target="_blank">Resume</a>
 
         </li>
       </div>
