@@ -7,6 +7,8 @@
   font-family: 'Roboto', sans-serif;
   color: rgb(207, 132, 201);
   text-decoration: none;
+  text-align: center;
+  
 }
 
 .container {
@@ -17,6 +19,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+  
 }
 
 .content {
@@ -43,3 +46,31 @@
 }
 
 
+.topBlur {
+  position: absolute;
+  width: 70vw;
+  height: 50vw;
+  min-width: 350px;
+  min-width: 250px;
+  top: -128px;
+  left: -10vw;
+  border-radius: 764px;
+  background: rgba(194, 154, 193, 0.7);
+  filter: blur(250px);
+  z-index: 0;
+}
+
+.bottomBlur {
+  position: absolute;
+  width: 50vw;
+  height: 50vw;
+  min-width: 350px;
+  min-width: 350px;
+  top: 246px;
+  right: -25vw;
+  border-radius: 764px;
+  background: rgb(166, 116, 169);
+  filter: blur(100px);
+  z-index: 0;
+  
+}

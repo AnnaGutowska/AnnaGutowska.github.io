@@ -13,6 +13,7 @@ const About = () => {
                     My interests include data science and analysis, human-computer interaction, artificial intelligence, and bioinformatics.           
             </li>
         </div>
+
     </section> 
         
     );

@@ -7,6 +7,7 @@
   font-family: 'Roboto', sans-serif;
   color: rgb(207, 132, 201);
   text-decoration: none;
+  text-align: center;
 }
 
 .container {
@@ -27,6 +28,7 @@
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
   color: rgb(207, 132, 201);
+  text-align: center;
 }
 
 .content {
