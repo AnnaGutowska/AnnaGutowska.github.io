@@ -37,7 +37,7 @@ function Projects() {
             <CCardTitle>Bookshelf </CCardTitle>
             <CCardText>
             An iOS app built using Swift in order to allow users to store the title, author, and genre of their favorite books. 
-            The app uses SQLite as the means of implementing a database engine for storing, editting, adding, and deleting the data pertaining to each book.  
+            The app uses SQLite as the means of implementing a database engine for storing, editing, adding, and deleting the data pertaining to each book.  
             The title and author are entered as text fields and the genre is determined from a menu-style selection.
             
             </CCardText>

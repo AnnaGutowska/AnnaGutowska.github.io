@@ -1,5 +1,4 @@
 import Navbar from './components/Navbar/Navbar';
-import styles from "./App.css";
 
 import Intro from "./components/Intro/Intro";
 import About from "./components/About/About";
@@ -8,7 +7,7 @@ import Projects from "./components/Projects/Projects";
 
 function App() {
   return (
-    <div className={styles.body}>
+    <div >
       <Navbar />
       <Intro />
       <About />
