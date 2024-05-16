@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a9080739.css",
-    "main.js": "/static/js/main.05b4231e.js",
+    "main.js": "/static/js/main.fc92285d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/PizzaApp.png": "/static/media/PizzaApp.699af9f11ef0b888b071.png",
     "static/media/headshot.png": "/static/media/headshot.a3e3d2d674f565f34050.png",
@@ -10,11 +10,11 @@
     "static/media/Resume-Anna Gutowska.pdf": "/static/media/Resume-Anna Gutowska.fd83d16c2b68166d91b0.pdf",
     "index.html": "/index.html",
     "main.a9080739.css.map": "/static/css/main.a9080739.css.map",
-    "main.05b4231e.js.map": "/static/js/main.05b4231e.js.map",
+    "main.fc92285d.js.map": "/static/js/main.fc92285d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9080739.css",
-    "static/js/main.05b4231e.js"
+    "static/js/main.fc92285d.js"
   ]
 }
