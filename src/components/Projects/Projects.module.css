@@ -7,7 +7,7 @@
     align-self: center;
 }
 
-.websiteImage {
+.eegImage {
     width: 300px;
     height: 400px;
     object-fit:scale-down;
@@ -24,7 +24,6 @@
     
 }
 
-  
 .content {
     display: flex;
     flex-direction: row;
