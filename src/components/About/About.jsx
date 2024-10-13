@@ -8,9 +8,7 @@ const About = () => {
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
             <li className={styles.aboutItem}> 
-                    I'm a 2023 graduate of the Rutgers University Honors College and my passion is technology. 
-                    My degree being Computer Science as well as Cognitive Science was the perfect way for me to explore the parallels between our human minds and the processing power of computers.
-                    My interests include data science and analysis, human-computer interaction, artificial intelligence, and bioinformatics.           
+            Anna is a Data Scientist and technical content writer with a strong focus on artificial intelligence, data science, and education. With a background in Computer Science and Cognitive Science, she is particularly interested in the intriguing parallels between AI agents and human cognition and decision-making. Anna’s work is dedicated to empowering developers to effectively leverage advanced AI technologies in a user-friendly manner that enhances efficiency. Driven by her curiosity and commitment to innovation, she has concentrated much of her efforts on developing AI agents. Anna believes that these agentic systems can be utilized to free human resources for more complex and impactful tasks, rather than routine activities. Passionate about both sharing her expertise and learning from others, she holds the conviction that the best educators are those who continually seek knowledge.            
             </li>
         </div>
 

@@ -9,7 +9,7 @@ const Intro = () => {
         <div className={styles.content}>
           <h1 className={styles.title}>Hi, I'm Anna</h1>
           <p className={styles.description}>
-            I'm an entry-level computer programmer with 2+ years of research, internship, nonprofit, and startup experience. Reach out if you'd like to learn more!
+            I'm a passionate software developer with 2+ years of research, internship, nonprofit, and startup experience. Reach out if you'd like to learn more!
           </p>
           <li className={styles.buttons}>
                 <a href="mailto:annagutowskaaa@gmail.com" className={styles.contactBtn}>
