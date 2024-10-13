@@ -3,7 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 import PizzaApp from './PizzaApp.png';
 import BookApp from './bookshelf.png';
-import Website from './website.png';
+// import Website from './website.png';
+import EEG from './eeg.png';
 
 import styles from "./Projects.module.css";
 
@@ -47,18 +48,17 @@ function Projects() {
       </CCard>
 
       <CCard style={{ width: '25rem' }}>
-         <CCardImage orientation="top" rounded src={Website} className={styles.websiteImage} />
+      <CCardImage orientation="top" rounded src={EEG} className={styles.eegImage} />
 
          <CCardBody>
-            <CCardTitle>Portfolio Website </CCardTitle>
+            <CCardTitle>EEG Epilepsy Classifier </CCardTitle>
             <CCardText>
-            This website is another example of the projects I devote myself to in my free time. 
-            This site was built using JavaScript, React, Bootstrap, HTML, and CSS. I used this project
-            as a way to exhibit the hard work I have put in to developing as a young professional. Through
-            my wide range of commitments and projects, I have always aimed to challenge myself to learn something new. 
-            
+            Built and trained an epileptic seizure classifier by creating a convolutional neural network (CNN) on the CHB-MIT EEG dataset with 72% prediction accuracy.
+            Converted the model to a spiking implementation using Nengo API via a Python Conda environment with Tensorflow. This was done for the purposes of being
+            more computationally efficient than a CNN.
+
             </CCardText>
-            <CButton href="https://github.com/AnnaGutowska/Bookshelf.git">Source Code</CButton>
+            <CButton href="https://github.com/vishal929/CS-525-Project.git">Source Code</CButton>
          </CCardBody>
       </CCard>
       </div>
