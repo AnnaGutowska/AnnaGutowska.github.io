@@ -18,6 +18,7 @@ const Experience = () => {
                         date="Jun 2024 - Present"
                         iconStyle={{ background: 'rgb(207, 132, 201)', color: '#ffffff' }}>
                         <h3 className="vertical-timeline-element-title">Data Scientist, Developer Advocacy</h3>
+                        <h3 className="vertical-timeline-element-title">IBM</h3>
                         <h4 className="vertical-timeline-element-subtitle">New York, NY</h4>
                         <p>
                         ➤ Published technical explainers and tutorials on IBM.com specializing in agentic AI and data augmentation.
@@ -37,6 +38,7 @@ const Experience = () => {
                    
                 >
                     <h3 className="vertical-timeline-element-title">Data Science Research Assistant</h3>
+                    <h3 className="vertical-timeline-element-title">Rutgers University</h3>
                     <h4 className="vertical-timeline-element-subtitle">New Brunswick, NJ</h4>
                     <p>
                     ➤ Developed Python and R scripts to analyze trends in CDC-related social media content.
