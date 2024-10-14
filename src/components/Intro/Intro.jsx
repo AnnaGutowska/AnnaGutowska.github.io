@@ -19,11 +19,14 @@ const Intro = () => {
                     Connect on LinkedIn
                 </a>
             </li>
+            <p></p>
+        <iframe src="https://ghbtns.com/github-btn.html?user=AnnaGutowska&type=follow&count=true&size=large"  width="230" height="30" title="GitHub"></iframe>
         </div>
+
         <img
             src={headshot}
             alt="My Headshot"
-            className={styles.introImg}
+            className={styles.introImg}    
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
